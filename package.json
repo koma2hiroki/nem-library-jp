@@ -1,0 +1,8 @@
+{
+  "name": "nem-library-jp",
+  "version": "0.0.1",
+  "author": "koma2hiroki <https://github.com/koma2hiroki>",
+  "dependencies": {
+    "nem-library": "^0.11.2"
+  }
+}
